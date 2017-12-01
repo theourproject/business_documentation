@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
-* [Second Chapter](second-chapter.md)
+* [Theme Instalation](chapter1.md)
+  * [WordPress Installation](chapter1/wordpress-installation.md)
 
