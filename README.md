@@ -1,3 +1,5 @@
+## ![](/assets/screenshot.png)
+
 ## ![](/assets/screenshot.png)Introduction
 
 Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.
@@ -15,15 +17,15 @@ WordPress template is a theme for the WordPress CMS platform. You can easily cha
 The template package includes several folders. Let’s check what’s inside:
 
 * **theme**
-  - contains WordPress theme files.
+  * contains WordPress theme files.
   * **manual\_install**
-    - contains files that make the WordPress website look like on our live demo.
+    * contains files that make the WordPress website look like on our live demo.
     * **uploads**
-      - contains theme images.
+      * contains theme images.
     * **business.sql**
-      - database file \(contains theme content\).
+      * database file \(contains theme content\).
 * **documentation.txt**
-  - contains documentation link information.
+  * contains documentation link information.
 
 ### Preparation {#preparation}
 
