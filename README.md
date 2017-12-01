@@ -1,5 +1,3 @@
-## ![](/assets/screenshot.png)
-
 ## ![](/assets/screenshot.png)Introduction
 
 Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.
