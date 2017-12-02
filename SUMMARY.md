@@ -54,4 +54,5 @@
   * [Archives](widgets/archives.md)
   * [Audio](widgets/audio.md)
   * [Calendar](widgets/calendar.md)
+  * [Categories](widgets/categories.md)
 
