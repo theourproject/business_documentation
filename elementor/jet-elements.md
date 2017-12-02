@@ -795,6 +795,7 @@ This module contains next Settings:
 ##### Content
 
 * Map Settings:
+
   * map center
     specify center of the map;
   * initial zoom
@@ -811,6 +812,7 @@ This module contains next Settings:
     enable / disable map's drag option.
 
 * Map Style:
+
   * map height
     specify height of the map;
   * map style
@@ -819,12 +821,14 @@ This module contains next Settings:
     show / hide arrows navigation.
 
 * Pins:
+
   * pins
     add / remove pins on map's location.
 
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of Advanced Map's element style;
   * padding
@@ -839,10 +843,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Advanced Map element's background.
 
 * Border:
+
   * border type
     select type of the Advanced Map element's border from dropdown list;
   * border radius
@@ -851,6 +857,7 @@ This module contains next Settings:
     enable / disable box shadow of the Advanced Map element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Advanced Map on desktop;
   * hide on tablet
@@ -859,8 +866,8 @@ This module contains next Settings:
     show / hide Advanced Map on mobile.
 
 * Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
-* 
-#### Brands
+
+* #### Brands
 
 With the help of this module you can adds different brands to a webpage, organize their layout and capture your visitor's attention with stylish and immaculate Brands appearance.
 
@@ -869,16 +876,19 @@ This module contains next Settings:
 ##### Content
 
 * General:
+
   * columns
     select number of columns.
 
 * Brands:
+
   * brands
     add or remove company's brand name.
 
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of Brands' element style;
   * padding
@@ -893,10 +903,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Brands element's background.
 
 * Border:
+
   * border type
     select type of the Brands element's border from dropdown list;
   * border radius
@@ -905,6 +917,7 @@ This module contains next Settings:
     enable / disable box shadow of the Brands element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Brands on desktop;
   * hide on tablet
@@ -923,12 +936,14 @@ This module contains next Settings:
 ##### Content
 
 * Values:
+
   * progress values type
     select type of progress value;
   * current percent
     select type the current percent the value;
 
 * Settings:
+
   * circle size
     specify size of the circle;
   * value stoke width
@@ -939,6 +954,7 @@ This module contains next Settings:
     specify duration of animation.
 
 * Content:
+
   * value number prefix
     select positive or negative value's number prefix;
   * value number suffix
@@ -955,6 +971,7 @@ This module contains next Settings:
 ##### Style
 
 * Progress Circle Style:
+
   * background stroke color
     select color of progress circle's background stroke;
   * value stroke color
@@ -965,6 +982,7 @@ This module contains next Settings:
     select progress line endings.
 
 * Content Style:
+
   * * Number Styles - change settings of number styles in content style:
 
     * * color
@@ -973,7 +991,6 @@ This module contains next Settings:
         enable / disable typography of number styles in content style;
       * padding
         select padding of number styles in content style.
-
   * * Title Styles - change settings of title styles in content style:
 
     * * color
@@ -982,7 +999,6 @@ This module contains next Settings:
         enable / disable typography of title styles in content style;
       * padding
         select padding of title styles in content style.
-
   * * Subtitle Styles - change settings of subtitle styles in content style:
 
     * * color
@@ -992,9 +1008,333 @@ This module contains next Settings:
       * padding
         select padding of subtitle styles in content style.
 
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of Circle Progress's element style;
+  * padding
+    manages padding of Circle Progress's element style;
+  * Z-index
+    define the number of z-index for Circle Progress's element style;
+  * entrance animation
+    select type of entrance animation of Circle Progress from dropdown menu;
+  * CSS ID
+    insert CSS ID;
+  * CSS Classes
+    insert CSS Classes.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Circle Progress element's background.
+
+* Border:
+  * border type
+    select type of the Circle Progress element's border from dropdown list;
+  * border radius
+    defines radius of the Circle Progress element's border;
+  * box shadow
+    enable / disable box shadow of the Circle Progress element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Circle Progress on desktop;
+  * hide on tablet
+    show / hide Circle Progress on tablet;
+  * hide on mobile
+    show / hide Circle Progress on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+#### Posts
+
+This module helps to create and manage any posts. It contains wide range of settings to customize your posts and to display them in the webpage the way you want.
+
+This module contains next Settings:
+
+##### Content
+
+* General:
+  * posts number
+    select number of posts;
+  * columns
+    select number of columns;
+  * query posts by
+    define posts' type;
+  * show posts title
+    show / hide title of the post;
+  * show posts featured image
+    show / hide posts featured image;
+  * featured image size
+    specify size of featured image;
+  * show posts excerpt
+    show / hide excerpt of the posts;
+  * excerpt length
+    define posts excerpt length;
+  * show posts meta
+    show / hide posts meta;
+  * show Read More button
+    show / hide Read More button;
+  * Read More button text
+    type text for Read More button.
+
+##### Style
+
+* Post Item:
+  * background color
+    select background color of post item;
+  * padding
+    select padding of post item.
+
+* Title:
+  * color
+    select color of posts's title;
+  * typography
+    enable / disable typography of posts's title;
+  * alignment
+    select layout of posts's title;
+  * padding
+    here you can select padding of posts's title;
+  * margin
+    here you can select margin of posts's title.
+
+* Meta:
+  * color
+    select color of posts's meta;
+  * links color
+    select color of links of posts's meta;
+  * typography
+    enable / disable typography of posts's meta;
+  * padding
+    select padding of posts's meta;
+  * margin
+    select margin of posts's meta.
+
+* Excerpt:
+  * color
+    select color of posts's excerpt;
+  * typography
+    enable / disable typography of posts's excerpt;
+  * alignment
+    select layout of posts's excerpt;
+  * padding
+    select padding of posts's excerpt;
+  * margin
+    select margin of posts's excerpt.
+
+* Button
+  * background color
+    select background color of posts's button;
+  * text color
+    select text color of posts's button;
+  * typography
+    enable / disable typography of posts's button;
+  * padding
+    select padding of posts's button;
+  * border radius
+    select border radius of posts's button;
+  * border type
+    select border type of posts's button;
+  * box shadow
+    enable / disable box shadow of posts's button.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of Posts' element style;
+  * padding
+    manages padding of Posts' element style;
+  * Z-index
+    define the number of z-index for Posts' element style;
+  * entrance animation
+    select type of entrance animation of Posts from dropdown menu;
+  * CSS ID
+    insert CSS ID;
+  * CSS Classes
+    insert CSS Classes.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Posts element's background.
+
+* Border:
+  * border type
+    select type of the Posts element's border from dropdown list;
+  * border radius
+    defines radius of the Posts element's border;
+  * box shadow
+    enable / disable box shadow of the Posts element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Posts on desktop;
+  * hide on tablet
+    show / hide Posts on tablet;
+  * hide on mobile
+    show / hide Posts on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
 
 
 
+#### Pricing Table
+
+This module helps to create pricing tables for your website the easy way. You can showcase prices and description of products, choose the color, text and set other options. This module has rich functionaluty to display the element.
+
+This module contains next Settings:
+
+##### Content
+
+* General:
+  * icon
+    select icon from media library;
+  * title
+    type title text;
+  * subtitle
+    type subtitle text;
+  * is featured?
+    defines whether this product is featured one.
+
+* Price:
+  * price prefix
+    select currency prefix;
+  * price value
+    specify price value;
+  * price suffix
+    specify price suffix.
+
+* Features:
+  * text before action button
+    type text before action button;
+  * button text
+    type button text;
+  * button URL
+    specify button URL;
+  * text after action button
+    type text after action button.
+
+##### Style
+
+* Header:
+  * background color
+    select background color of pricing table header;
+  * icon color
+    select icon color of pricing table header;
+  * icon font size
+    select size of pricing table header;
+  * title color
+    select title color of title of pricing table header;
+  * typography
+    enable / disable typography of title of pricing table header;
+  * subtitle color
+    select subtitle color of title of pricing table header;
+  * typography
+    enable / disable typography of subtitle of pricing table header;
+  * header padding
+    select header padding of pricing table header;
+  * alignment
+    select layout of pricing table header.
+
+* Pricing:
+  * background color
+    select background color of pricing;
+  * price prefix color
+    select price prefix color of pricing;
+  * typography
+    enable / disable typography of pricing;
+  * price color
+    select color of price;
+  * typography
+    enable / disable typography of price color;
+  * price suffix color
+    select price suffix color;
+  * typography
+    enable / disable typography of price suffix color;
+  * header padding
+    select header padding of price suffix color;
+  * alignment
+    select layout of price suffix color.
+
+* Features:
+  * background color
+    select background color of features;
+  * color
+    select color of features;
+  * typography
+    enable / disable typography of features;
+  * padding
+    select padding of features;
+  * alignment
+    select layout of features.
+
+* Action Box:
+  * background color
+    select background color of action box;
+  * price prefix color
+    select price prefix color of action box;
+  * typography
+    enable / disable typography of action box;
+  * header padding
+    select header padding of action box;
+  * alignment
+    select layout of features.
+
+* Action Button
+  * background color
+    select background color of action button;
+  * text color
+    select text color of action button;
+  * typography
+    enable / disable typography of action button;
+  * padding
+    select padding of action button;
+  * border radius
+    select border radius of action button;
+  * border type
+    select border type of action button;
+  * box shadow
+    enable / disable box shadow.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of Pricing Table's element style;
+  * padding
+    manages padding of Pricing Table's element style;
+  * Z-index
+    define the number of z-index for Pricing Table's element style;
+  * entrance animation
+    select type of entrance animation of Pricing Table from dropdown menu;
+  * CSS ID
+    insert CSS ID;
+  * CSS Classes
+    insert CSS Classes.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Pricing Table element's background.
+
+* Border:
+  * border type
+    select type of the Pricing Table element's border from dropdown list;
+  * border radius
+    defines radius of the Pricing Table element's border;
+  * box shadow
+    enable / disable box shadow of the Pricing Table element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Pricing Table on desktop;
+  * hide on tablet
+    show / hide Pricing Table on tablet;
+  * hide on mobile
+    show / hide Pricing Table on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+#### Detailed documentation about Jet Elements modules can be found [here](http://documentation.zemez.io/wordpress/index.php?project=jetelements).
 
 
 
