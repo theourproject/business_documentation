@@ -38,4 +38,6 @@
   * [Jet Elements](elementor/jet-elements.md)
 * [Widgets](widgets.md)
   * [About](widgets/about.md)
+  * [About Author](widgets/about-author.md)
+  * [Banner](widgets/banner.md)
 
