@@ -59,4 +59,5 @@
   * [Custom HTML](widgets/custom-html.md)
   * [Meta](widgets/meta.md)
   * [Image](widgets/image.md)
+  * [Pages](widgets/pages.md)
 
