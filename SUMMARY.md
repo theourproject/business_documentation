@@ -60,4 +60,5 @@
   * [Meta](widgets/meta.md)
   * [Image](widgets/image.md)
   * [Pages](widgets/pages.md)
+  * [Recent Comments](widgets/recent-comments.md)
 
