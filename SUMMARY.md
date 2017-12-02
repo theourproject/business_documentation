@@ -40,4 +40,5 @@
   * [About](widgets/about.md)
   * [About Author](widgets/about-author.md)
   * [Banner](widgets/banner.md)
+  * [Carousel](widgets/carousel.md)
 
