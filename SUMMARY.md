@@ -41,4 +41,5 @@
   * [About Author](widgets/about-author.md)
   * [Banner](widgets/banner.md)
   * [Carousel](widgets/carousel.md)
+  * [Cherry Trending Posts](widgets/cherry-trending-posts.md)
 
