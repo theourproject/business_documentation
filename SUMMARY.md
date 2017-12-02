@@ -70,4 +70,6 @@
   * [Booked Calendar](widgets/booked-calendar.md)
   * [Shortcode Widget](widgets/shortcode-widget.md)
   * [Cherry Socialize Instagram](widgets/cherry-socialize-instagram.md)
+* [Plugins](plugins.md)
+  * [Booked Appointments](plugins/booked-appointments.md)
 
