@@ -46,4 +46,6 @@
   * [Custom Posts](widgets/custom-posts.md)
   * [Featured Posts Block](widgets/featured-posts-block.md)
   * [Image Grid](widgets/image-grid.md)
+  * [News Smart Box](widgets/news-smart-box.md)
+  * [Playlist Slider](widgets/playlist-slider.md)
 
