@@ -58,4 +58,5 @@
   * [Custom Menu](widgets/custom-menu.md)
   * [Custom HTML](widgets/custom-html.md)
   * [Meta](widgets/meta.md)
+  * [Image](widgets/image.md)
 
