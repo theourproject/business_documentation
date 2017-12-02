@@ -52,4 +52,5 @@
   * [Subscribe and Follow](widgets/subscribe-and-follow.md)
   * [Taxonomy Tiles](widgets/taxonomy-tiles.md)
   * [Archives](widgets/archives.md)
+  * [Audio](widgets/audio.md)
 
