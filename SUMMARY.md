@@ -55,4 +55,6 @@
   * [Audio](widgets/audio.md)
   * [Calendar](widgets/calendar.md)
   * [Categories](widgets/categories.md)
+  * [Custom Menu](widgets/custom-menu.md)
+  * [Custom HTML](widgets/custom-html.md)
 
