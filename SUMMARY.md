@@ -36,4 +36,6 @@
   * [Page Layout](elementor/page-layout.md)
   * [Modules](elementor/modules.md)
   * [Jet Elements](elementor/jet-elements.md)
+* [Widgets](widgets.md)
+  * [About](widgets/about.md)
 
