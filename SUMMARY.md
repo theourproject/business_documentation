@@ -44,4 +44,6 @@
   * [Cherry Trending Posts](widgets/cherry-trending-posts.md)
   * [Contact Information](widgets/contact-information.md)
   * [Custom Posts](widgets/custom-posts.md)
+  * [Featured Posts Block](widgets/featured-posts-block.md)
+  * [Image Grid](widgets/image-grid.md)
 
