@@ -49,4 +49,5 @@
   * [News Smart Box](widgets/news-smart-box.md)
   * [Playlist Slider](widgets/playlist-slider.md)
   * [Smart Slider](widgets/smart-slider.md)
+  * [Subscribe and Follow](widgets/subscribe-and-follow.md)
 
