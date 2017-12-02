@@ -69,4 +69,5 @@
   * [Video](widgets/video.md)
   * [Booked Calendar](widgets/booked-calendar.md)
   * [Shortcode Widget](widgets/shortcode-widget.md)
+  * [Cherry Socialize Instagram](widgets/cherry-socialize-instagram.md)
 
