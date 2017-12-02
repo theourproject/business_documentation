@@ -65,4 +65,5 @@
   * [RSS](widgets/rss.md)
   * [Search](widgets/search.md)
   * [Tag Cloud](widgets/tag-cloud.md)
+  * [Text](widgets/text.md)
 
