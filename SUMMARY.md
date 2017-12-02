@@ -64,4 +64,5 @@
   * [Recent Posts](widgets/recent-posts.md)
   * [RSS](widgets/rss.md)
   * [Search](widgets/search.md)
+  * [Tag Cloud](widgets/tag-cloud.md)
 
