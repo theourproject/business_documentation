@@ -50,4 +50,5 @@
   * [Playlist Slider](widgets/playlist-slider.md)
   * [Smart Slider](widgets/smart-slider.md)
   * [Subscribe and Follow](widgets/subscribe-and-follow.md)
+  * [Taxonomy Tiles](widgets/taxonomy-tiles.md)
 
