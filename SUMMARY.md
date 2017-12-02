@@ -53,4 +53,5 @@
   * [Taxonomy Tiles](widgets/taxonomy-tiles.md)
   * [Archives](widgets/archives.md)
   * [Audio](widgets/audio.md)
+  * [Calendar](widgets/calendar.md)
 
