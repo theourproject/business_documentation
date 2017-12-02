@@ -677,10 +677,12 @@ This module contains next Settings:
 ##### Content
 
 * Slides:
+
   * slides
     add items for creating slides.
 
 * Settings:
+
   * slides to show
     select a number of slides to show carousel;
   * slides to scroll
@@ -691,6 +693,7 @@ This module contains next Settings:
     show / hide dots navigation.
 
 * Additional Options:
+
   * pause on hover
     enable / disable pause on slides ' hover;
   * autoplay
@@ -705,6 +708,7 @@ This module contains next Settings:
 ##### Style
 
 * Items:
+
   * items background color
     select background items color;
   * items padding
@@ -713,24 +717,28 @@ This module contains next Settings:
     select items layout.
 
 * Items Title Typography:
+
   * items title color
     select color for items title;
   * typography
     enable / disable typography for items title.
 
 * Items Content Typography:
+
   * items content color
     select color for items content;
   * typography
     enable / disable typography for items content.
 
 * Arrows:
+
   * color
     here you can select color for arrows;
   * size
     select arrows size.
 
 * Pagination Dots:
+
   * color
     here you can select color for pagination dots;
   * size
@@ -739,6 +747,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of Advanced Carousel's element style;
   * padding
@@ -753,10 +762,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Advanced Carousel element's background.
 
 * Border:
+
   * border type
     select type of the Advanced Carousel element's border from dropdown list;
   * border radius
@@ -765,6 +776,7 @@ This module contains next Settings:
     enable / disable box shadow of the Advanced Carousel element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Advanced Carousel on desktop;
   * hide on tablet
@@ -773,6 +785,214 @@ This module contains next Settings:
     show / hide Advanced Carousel on mobile.
 
 * Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+#### Advanced Map
+
+This easy-to-use and efortlessly customizable module helps to add extra settings to Google Maps. With advanced Map you can manage the map according to your needs.
+
+This module contains next Settings:
+
+##### Content
+
+* Map Settings:
+  * map center
+    specify center of the map;
+  * initial zoom
+    define zoom that will be opened initially;
+  * scrollwheel zoom
+    enable / disable scrollwheel zoom;
+  * zoom controls
+    show / hide zoom controls;
+  * street view controls
+    show / hide street view controls;
+  * map type controls \(map/satellite\)
+    show / hide map type controls;
+  * is map draggable?
+    enable / disable map's drag option.
+
+* Map Style:
+  * map height
+    specify height of the map;
+  * map style
+    enable / disable infinite loop;
+  * show arrows navigation
+    show / hide arrows navigation.
+
+* Pins:
+  * pins
+    add / remove pins on map's location.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of Advanced Map's element style;
+  * padding
+    manages padding of Advanced Map's element style;
+  * Z-index
+    define the number of z-index for Advanced Map's element style;
+  * entrance animation
+    select type of entrance animation of Advanced Map from dropdown menu;
+  * CSS ID
+    insert CSS ID;
+  * CSS Classes
+    insert CSS Classes.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Advanced Map element's background.
+
+* Border:
+  * border type
+    select type of the Advanced Map element's border from dropdown list;
+  * border radius
+    defines radius of the Advanced Map element's border;
+  * box shadow
+    enable / disable box shadow of the Advanced Map element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Advanced Map on desktop;
+  * hide on tablet
+    show / hide Advanced Map on tablet;
+  * hide on mobile
+    show / hide Advanced Map on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+* 
+#### Brands
+
+With the help of this module you can adds different brands to a webpage, organize their layout and capture your visitor's attention with stylish and immaculate Brands appearance.
+
+This module contains next Settings:
+
+##### Content
+
+* General:
+  * columns
+    select number of columns.
+
+* Brands:
+  * brands
+    add or remove company's brand name.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of Brands' element style;
+  * padding
+    manages padding of Brands' element style;
+  * Z-index
+    define the number of z-index for Brands' element style;
+  * entrance animation
+    select type of entrance animation of Brands from dropdown menu;
+  * CSS ID
+    insert CSS ID;
+  * CSS Classes
+    insert CSS Classes.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Brands element's background.
+
+* Border:
+  * border type
+    select type of the Brands element's border from dropdown list;
+  * border radius
+    defines radius of the Brands element's border;
+  * box shadow
+    enable / disable box shadow of the Brands element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Brands on desktop;
+  * hide on tablet
+    show / hide Brands on tablet;
+  * hide on mobile
+    show / hide Brands on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+#### Circle Progress
+
+Circle Progress adds an animated element to your site called progressbar. It can be used to showcase any process you wish. With this module you can change its color, size and type any text you need.
+
+This module contains next Settings:
+
+##### Content
+
+* Values:
+  * progress values type
+    select type of progress value;
+  * current percent
+    select type the current percent the value;
+
+* Settings:
+  * circle size
+    specify size of the circle;
+  * value stoke width
+    specify value's width of stroke;
+  * background stoke width
+    specify background's width of stroke;
+  * animation duration
+    specify duration of animation.
+
+* Content:
+  * value number prefix
+    select positive or negative value's number prefix;
+  * value number suffix
+    select positive or negative value's number suffix;
+  * show thousand separator in value
+    show / hide thousand separator in value;
+  * counter title
+    define counter title of the value;
+  * counter subtitle
+    define counter subtitle of the value;
+  * counter content position
+    specify position of counter's content.
+
+##### Style
+
+* Progress Circle Style:
+  * background stroke color
+    select color of progress circle's background stroke;
+  * value stroke color
+    select color of progress circle's value stroke;
+  * circle fill color
+    select color of progress circle fill;
+  * progress line endings
+    select progress line endings.
+
+* Content Style:
+  * * Number Styles - change settings of number styles in content style:
+
+    * * color
+        select color of number styles in content style;
+      * typography
+        enable / disable typography of number styles in content style;
+      * padding
+        select padding of number styles in content style.
+
+  * * Title Styles - change settings of title styles in content style:
+
+    * * color
+        select color of title styles in content style;
+      * typography
+        enable / disable typography of title styles in content style;
+      * padding
+        select padding of title styles in content style.
+
+  * * Subtitle Styles - change settings of subtitle styles in content style:
+
+    * * color
+        select color of subtitle styles in content style;
+      * typography
+        enable / disable typography of subtitle styles in content style;
+      * padding
+        select padding of subtitle styles in content style.
+
+
 
 
 
