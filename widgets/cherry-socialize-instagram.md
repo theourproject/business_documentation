@@ -1,7 +1,5 @@
 ### Cherry Socialize Instagram {#cherry-socialize}
 
-
-
 This widget is used to setup and display Instagram feed on the website.
 
 ![](/assets/74131231import.png)
