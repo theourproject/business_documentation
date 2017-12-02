@@ -1011,6 +1011,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of Circle Progress's element style;
   * padding
@@ -1025,10 +1026,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Circle Progress element's background.
 
 * Border:
+
   * border type
     select type of the Circle Progress element's border from dropdown list;
   * border radius
@@ -1037,6 +1040,7 @@ This module contains next Settings:
     enable / disable box shadow of the Circle Progress element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Circle Progress on desktop;
   * hide on tablet
@@ -1081,12 +1085,14 @@ This module contains next Settings:
 ##### Style
 
 * Post Item:
+
   * background color
     select background color of post item;
   * padding
     select padding of post item.
 
 * Title:
+
   * color
     select color of posts's title;
   * typography
@@ -1099,6 +1105,7 @@ This module contains next Settings:
     here you can select margin of posts's title.
 
 * Meta:
+
   * color
     select color of posts's meta;
   * links color
@@ -1111,6 +1118,7 @@ This module contains next Settings:
     select margin of posts's meta.
 
 * Excerpt:
+
   * color
     select color of posts's excerpt;
   * typography
@@ -1123,6 +1131,7 @@ This module contains next Settings:
     select margin of posts's excerpt.
 
 * Button
+
   * background color
     select background color of posts's button;
   * text color
@@ -1141,6 +1150,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of Posts' element style;
   * padding
@@ -1155,10 +1165,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Posts element's background.
 
 * Border:
+
   * border type
     select type of the Posts element's border from dropdown list;
   * border radius
@@ -1167,6 +1179,7 @@ This module contains next Settings:
     enable / disable box shadow of the Posts element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Posts on desktop;
   * hide on tablet
@@ -1175,8 +1188,6 @@ This module contains next Settings:
     show / hide Posts on mobile.
 
 * Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
-
-
 
 #### Pricing Table
 
@@ -1187,6 +1198,7 @@ This module contains next Settings:
 ##### Content
 
 * General:
+
   * icon
     select icon from media library;
   * title
@@ -1197,6 +1209,7 @@ This module contains next Settings:
     defines whether this product is featured one.
 
 * Price:
+
   * price prefix
     select currency prefix;
   * price value
@@ -1205,6 +1218,7 @@ This module contains next Settings:
     specify price suffix.
 
 * Features:
+
   * text before action button
     type text before action button;
   * button text
@@ -1217,6 +1231,7 @@ This module contains next Settings:
 ##### Style
 
 * Header:
+
   * background color
     select background color of pricing table header;
   * icon color
@@ -1237,6 +1252,7 @@ This module contains next Settings:
     select layout of pricing table header.
 
 * Pricing:
+
   * background color
     select background color of pricing;
   * price prefix color
@@ -1257,6 +1273,7 @@ This module contains next Settings:
     select layout of price suffix color.
 
 * Features:
+
   * background color
     select background color of features;
   * color
@@ -1269,6 +1286,7 @@ This module contains next Settings:
     select layout of features.
 
 * Action Box:
+
   * background color
     select background color of action box;
   * price prefix color
@@ -1281,6 +1299,7 @@ This module contains next Settings:
     select layout of features.
 
 * Action Button
+
   * background color
     select background color of action button;
   * text color
@@ -1299,6 +1318,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of Pricing Table's element style;
   * padding
@@ -1313,10 +1333,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Pricing Table element's background.
 
 * Border:
+
   * border type
     select type of the Pricing Table element's border from dropdown list;
   * border radius
@@ -1325,6 +1347,7 @@ This module contains next Settings:
     enable / disable box shadow of the Pricing Table element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Pricing Table on desktop;
   * hide on tablet
