@@ -63,4 +63,5 @@
   * [Recent Comments](widgets/recent-comments.md)
   * [Recent Posts](widgets/recent-posts.md)
   * [RSS](widgets/rss.md)
+  * [Search](widgets/search.md)
 
