@@ -425,6 +425,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of element style of the Cherry Team;
   * padding
@@ -439,10 +440,12 @@ This module contains next Settings:
     insert CSS Classes of the Cherry Team.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Cherry Team's background.
 
 * Border:
+
   * border type
     select type of the Cherry Team element's border from dropdown list;
   * border radius
@@ -451,6 +454,7 @@ This module contains next Settings:
     enable / disable box shadow of the Cherry Team element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Cherry Team on desktop;
   * hide on tablet
@@ -511,6 +515,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of element style of the Cherry Testi;
   * padding
@@ -525,10 +530,12 @@ This module contains next Settings:
     insert CSS Classes of the Cherry Testi.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Cherry Testi's background.
 
 * Border:
+
   * border type
     select type of the Cherry Testi element's border from dropdown list;
   * border radius
@@ -537,6 +544,7 @@ This module contains next Settings:
     enable / disable box shadow of the Cherry Testi element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Cherry Testi on desktop;
   * hide on tablet
@@ -565,6 +573,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of element style of the Slider;
   * padding
@@ -579,10 +588,12 @@ This module contains next Settings:
     insert CSS Classes of the Slider.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Slider's background.
 
 * Border:
+
   * border type
     select type of the Slider element's border from dropdown list;
   * border radius
@@ -591,6 +602,7 @@ This module contains next Settings:
     enable / disable box shadow of the Slider element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Slider on desktop;
   * hide on tablet
@@ -603,8 +615,6 @@ This module contains next Settings:
 #### Contact Form 7
 
 Contact form 7 makes it really easy to manage multiple contact forms and customize the form and the mail contents. With this module you can create as many contact forms as you need and manage their layout and content.
-
-
 
 > **Attention!**Contact Form 7 is available when Contact Form 7 plugin is activated only.
 
@@ -619,6 +629,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of element style of the Contact Form 7;
   * padding
@@ -633,10 +644,12 @@ This module contains next Settings:
     insert CSS Classes of the Contact Form 7.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Contact Form background.
 
 * Border:
+
   * border type
     select type of the Contact Form 7 element's border from dropdown list;
   * border radius
@@ -645,6 +658,7 @@ This module contains next Settings:
     enable / disable box shadow of the Contact Form 7 element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Contact Form 7 on desktop;
   * hide on tablet
@@ -653,6 +667,114 @@ This module contains next Settings:
     show / hide Contact Form 7 on mobile.
 
 * Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+#### Advanced Carousel
+
+This outstanding module allows to display content of website. It contains a variety of settings to showcase the carousel in the most attractive way.
+
+This module contains next Settings:
+
+##### Content
+
+* Slides:
+  * slides
+    add items for creating slides.
+
+* Settings:
+  * slides to show
+    select a number of slides to show carousel;
+  * slides to scroll
+    select slides to be scrolled carousel;
+  * show arrows navigation
+    show / hide arrows navigation;
+  * show dots navigation
+    show / hide dots navigation.
+
+* Additional Options:
+  * pause on hover
+    enable / disable pause on slides ' hover;
+  * autoplay
+    enable / disable slides' autoplay;
+  * autoplay speed
+    specify speed of slides' autoplay;
+  * infinite loop
+    enable / disable slides' infinite loop;
+  * animation speed
+    specify speed of slides' animation.
+
+##### Style
+
+* Items:
+  * items background color
+    select background items color;
+  * items padding
+    select items padding;
+  * items alignment
+    select items layout.
+
+* Items Title Typography:
+  * items title color
+    select color for items title;
+  * typography
+    enable / disable typography for items title.
+
+* Items Content Typography:
+  * items content color
+    select color for items content;
+  * typography
+    enable / disable typography for items content.
+
+* Arrows:
+  * color
+    here you can select color for arrows;
+  * size
+    select arrows size.
+
+* Pagination Dots:
+  * color
+    here you can select color for pagination dots;
+  * size
+    select size of pagination dots.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of Advanced Carousel's element style;
+  * padding
+    manages padding of Advanced Carousel's element style;
+  * Z-index
+    define the number of z-index for Advanced Carousel's element style;
+  * entrance animation
+    select type of entrance animation of Advanced Carousel from dropdown menu;
+  * CSS ID
+    insert CSS ID;
+  * CSS Classes
+    insert CSS Classes.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Advanced Carousel element's background.
+
+* Border:
+  * border type
+    select type of the Advanced Carousel element's border from dropdown list;
+  * border radius
+    defines radius of the Advanced Carousel element's border;
+  * box shadow
+    enable / disable box shadow of the Advanced Carousel element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Advanced Carousel on desktop;
+  * hide on tablet
+    show / hide Advanced Carousel on tablet;
+  * hide on mobile
+    show / hide Advanced Carousel on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+
 
 
 
