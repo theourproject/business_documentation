@@ -73,4 +73,5 @@
 * [Plugins](plugins.md)
   * [Booked Appointments](plugins/booked-appointments.md)
   * [Cherry Data Importer](plugins/cherry-data-importer.md)
+  * [Cherry Plugin Wizard](plugins/cherry-plugin-wizard.md)
 
