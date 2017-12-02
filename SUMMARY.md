@@ -48,4 +48,5 @@
   * [Image Grid](widgets/image-grid.md)
   * [News Smart Box](widgets/news-smart-box.md)
   * [Playlist Slider](widgets/playlist-slider.md)
+  * [Smart Slider](widgets/smart-slider.md)
 
