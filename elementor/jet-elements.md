@@ -113,6 +113,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages Cherry Project Terms element's margin;
   * padding
@@ -127,10 +128,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the icon's background.
 
 * Border:
+
   * border type
     select border type of the Cherry Project Terms' border from dropdown list;
   * border radius
@@ -139,6 +142,7 @@ This module contains next Settings:
     enable / disable box shadow of the Cherry Project Terms's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Cherry Projects Terms on desktop;
   * hide on tablet
@@ -175,6 +179,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margin of Cherry Timeline' element style;
   * padding
@@ -189,10 +194,12 @@ This module contains next Settings:
     insert CSS Classes.
 
 * Background:
-  * background type
+
+  * background type  
     offers classic or gradient background color of the Cherry Timeline's element background.
 
   * Border:
+
     * border type
       select border type of the Cherry Timeline element's border from dropdown list;
     * border radius
@@ -201,6 +208,7 @@ This module contains next Settings:
       enable / disable box shadow of the Cherry Timeline element's border.
 
   * Responsive:
+
     * hide on desktop
       show / hide Cherry Timeline on desktop;
     * hide on tablet
@@ -289,6 +297,7 @@ This module contains next Settings:
 ##### Advanced
 
 * Element Style:
+
   * margin
     manages margins of Cherry Services element;
   * padding
@@ -303,10 +312,12 @@ This module contains next Settings:
     define CSS Classes.
 
 * Background:
+
   * background type
     offers classic or gradient background color of the Cherry Services element's background.
 
 * Border:
+
   * border type
     select type of the Cherry Services element's border from dropdown list;
   * border radius
@@ -315,6 +326,7 @@ This module contains next Settings:
     enable / disable box shadow of the Cherry Services element's border.
 
 * Responsive:
+
   * hide on desktop
     show / hide Cherry Services on desktop;
   * hide on tablet
@@ -324,7 +336,323 @@ This module contains next Settings:
 
 * Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
 
+#### Cherry Team
 
+This module makes it easier to display info about your team and personnel. You can add person's bio, position, icons to his social media accounts and lots of other information. It contains an advanced set of options that allow better appearance and functionality of the module.
+
+> **Attention!**Cherry Team module is available when Cherry Team Members plugin is activated only.
+
+This module contains next Settings:
+
+##### Content
+
+* Cherry Team:
+  * super title
+    type in super title;
+  * title
+    type in title;
+  * subtitle
+    type in subtitle;
+  * desktop columns
+    set number of columns to be displayed on desktop;
+  * laptop columns
+    set number of columns to be displayed on laptop;
+  * tablet columns
+    set number of columns to be displayed on tablet;
+  * phone columns
+    set number of columns to be displayed on phone;
+  * posts per page
+    select the number of posts per page;
+  * show team members from groups
+    select groups from where team members will be shown;
+  * show persons by ID
+    type in ID of the person that needs to be shown;
+  * description length
+    select length of description;
+  * show more button
+    show / hide
+    **More**
+    button;
+  * more button text
+    type text for
+    **More**
+    button;
+  * more button URL
+    type URL for
+    **More**
+    button;
+  * AJAX load more
+    show / hide
+    **AJAX Load More**
+    button;
+  * pagination
+    enable / disable pagination;
+  * show person name
+    show / hide person name;
+  * show person photo
+    show / hide person photo;
+  * show person bio
+    show / hide person bio;
+  * show person position
+    show / hide person position;
+  * show person social links
+    show / hide person links to social media accounts;
+  * show service item
+    **Read More**
+    button \(if allowed in template\)
+    show / hide service item
+    **Read More**
+    button;
+  * links color
+    select color of links of posts's meta;
+  * item
+    **Read More**
+    button text \(if empty - used default value from template\)
+    show / hide item
+    **Read More**
+    button text;
+  * show filter by groups before team listing
+    show / hide filter by groups before team listing;
+  * listing item image size \(if used in template\)
+    select image size of item listing;
+  * listing item template
+    select template of item listing;
+  * add space between team columns
+    add / remove space between team columns;
+  * add space between team rows
+    add / remove space between team rows.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of element style of the Cherry Team;
+  * padding
+    manages padding element style of the Cherry Team;
+  * Z-index
+    define the number of z-index for Cherry Team;
+  * entrance animation
+    select type of entrance animation of Cherry Team from dropdown menu;
+  * CSS ID
+    insert CSS ID of the Cherry Team;
+  * CSS Classes
+    insert CSS Classes of the Cherry Team.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Cherry Team's background.
+
+* Border:
+  * border type
+    select type of the Cherry Team element's border from dropdown list;
+  * border radius
+    defines radius of the Cherry Team element's border;
+  * box shadow
+    enable / disable box shadow of the Cherry Team element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Cherry Team on desktop;
+  * hide on tablet
+    show / hide Cherry Team on tablet;
+  * hide on mobile
+    show / hide Cherry Team on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+#### Cherry Testi
+
+This is a perfect module that helps you add testimonials and reviews to the site and customize their appearance in accordance with the design of the website and your needs. It has a very easy setup where you can add person's avatar, position, company and other useful information.
+
+> **Attention!**Cherry Testi module is available when Cherry Testimonials plugin is activated only.
+
+This module contains next Settings:
+
+##### Content
+
+* Cherry Testi:
+  * type
+    select type of displaying testimonials;
+  * super title
+    type in super title;
+  * title
+    type in title;
+  * subtitle
+    type in subtitle;
+  * limit
+    select limit of text testimonial;
+  * order by
+    order the module's items by categories;
+  * order
+    select order type;
+  * category
+    set testimonial category;
+  * post ID's
+    set ID of the post;
+  * content length
+    select length of the content;
+  * divider
+    enable / disable divider;
+  * avatar
+    show / hide avatar;
+  * avatar size
+    select avatar size;
+  * email
+    show / hide email;
+  * position
+    show / hide position;
+  * company
+    show / hide company name;
+  * template
+    select template type;
+  * class
+    select class of testimonial.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of element style of the Cherry Testi;
+  * padding
+    manages padding element style of the Cherry Testi;
+  * Z-index
+    define the number of z-index for Cherry Testi;
+  * entrance animation
+    select type of entrance animation of Cherry Testi from dropdown menu;
+  * CSS ID
+    insert CSS ID of the Cherry Testi;
+  * CSS Classes
+    insert CSS Classes of the Cherry Testi.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Cherry Testi's background.
+
+* Border:
+  * border type
+    select type of the Cherry Testi element's border from dropdown list;
+  * border radius
+    defines radius of the Cherry Testi element's border;
+  * box shadow
+    enable / disable box shadow of the Cherry Testi element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Cherry Testi on desktop;
+  * hide on tablet
+    show / hide Cherry Testi on tablet;
+  * hide on mobile
+    show / hide Cherry Testi on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+> **Notice!**The following modules can be added only with the help of Jet Elements for Elementor plugin. Make sure it is installed and activated.
+
+#### Slider
+
+Slider module allows to create multiple engaging sliders to display all kinds of information you have added. They can be used for displaying information about discounts, special offers, upcoming events, successfully completed projects, etc.
+
+> **Attention!**Slider module is available when Smart Slider 3 plugin is activated only.
+
+This module contains next Settings:
+
+##### Content
+
+* Slider:
+  * select slider
+    here you can select slider type.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of element style of the Slider;
+  * padding
+    manages padding element style of the Slider;
+  * Z-index
+    define the number of z-index for Slider;
+  * entrance animation
+    select type of entrance animation of Slider from dropdown menu;
+  * CSS ID
+    insert CSS ID of the Slider;
+  * CSS Classes
+    insert CSS Classes of the Slider.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Slider's background.
+
+* Border:
+  * border type
+    select type of the Slider element's border from dropdown list;
+  * border radius
+    defines radius of the Slider element's border;
+  * box shadow
+    enable / disable box shadow of the Slider element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Slider on desktop;
+  * hide on tablet
+    show / hide Slider on tablet;
+  * hide on mobile
+    show / hide Slider on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
+
+#### Contact Form 7
+
+Contact form 7 makes it really easy to manage multiple contact forms and customize the form and the mail contents. With this module you can create as many contact forms as you need and manage their layout and content.
+
+
+
+> **Attention!**Contact Form 7 is available when Contact Form 7 plugin is activated only.
+
+This module contains next Settings:
+
+##### Content
+
+* Slider:
+  * columns
+    here you can select columns type.
+
+##### Advanced
+
+* Element Style:
+  * margin
+    manages margin of element style of the Contact Form 7;
+  * padding
+    manages padding element style of the Contact Form 7;
+  * Z-index
+    define the number of z-index for Contact Form 7;
+  * entrance animation
+    select type of entrance animation of Contact Form 7 from dropdown menu;
+  * CSS ID
+    insert CSS ID of the Contact Form 7;
+  * CSS Classes
+    insert CSS Classes of the Contact Form 7.
+
+* Background:
+  * background type
+    offers classic or gradient background color of the Contact Form background.
+
+* Border:
+  * border type
+    select type of the Contact Form 7 element's border from dropdown list;
+  * border radius
+    defines radius of the Contact Form 7 element's border;
+  * box shadow
+    enable / disable box shadow of the Contact Form 7 element's border.
+
+* Responsive:
+  * hide on desktop
+    show / hide Contact Form 7 on desktop;
+  * hide on tablet
+    show / hide Contact Form 7 on tablet;
+  * hide on mobile
+    show / hide Contact Form 7 on mobile.
+
+* Custom CSS - lets you add CSS code to any widget, and allows you to view the results in the Live editor window. This feature is available on Elementor Pro only.
 
 
 
