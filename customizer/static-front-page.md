@@ -1,6 +1,4 @@
-### Static Front Page {#static-front-page}
-
-
+## Static Front Page
 
 Your theme supports a static front page.
 

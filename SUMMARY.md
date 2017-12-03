@@ -23,7 +23,6 @@
   * [Footer](customizer/footer.md)
   * [Ads Management](customizer/ads-management.md)
   * [Static Front Page](customizer/static-front-page.md)
-  * [404 Page](customizer/404-page.md)
   * [Additional CSS](customizer/additional-css.md)
 * [Posts, Categories and Posts Formats](posts-categories-and-posts-formats.md)
   * [Creating a Blog Post](posts-categories-and-posts-formats/creating-a-blog-post.md)
