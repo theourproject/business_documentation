@@ -19,15 +19,9 @@ A new database can be created in your Hosting Control Panel.
 2. The first page of installation will appear. Click **Create a Configuration file**
 3. Click **Let’s Go **button and fill in Database Connection Details:![](/assets/1import.png)![](/assets/2import.png)
 
-4. Fill in the fields with Website Details as shown below:
+4. Fill in the fields with Website Details as shown below:![](/assets/4import.png)
 
-![](/assets/4import.png)
-
-5. Click **Install WordPress **button.
-
-If you have entered the correct details, you will see a successful installation message and the WordPress dashboard access button.
-
-###  {#theme-installation}
+5. Click **Install WordPress **button. If you have entered the correct details, you will see a successful installation message and the WordPress dashboard access button.
 
 
 
