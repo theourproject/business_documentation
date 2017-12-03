@@ -1,10 +1,8 @@
-### Post Formats {#post-formats}
+## Post Formats
 
 Post formats are used to customize the available post options and markup. You can choose a post format on the post editing screen.
 
 ![](/assets/22222import.png)
-
-
 
 You can check detailed information on post formats on [Post Formats page.](https://codex.wordpress.org/Post_Formats)
 
@@ -25,8 +23,6 @@ Standard post format has the following fields:
 
 #### Aside {#aside}
 
-
-
 Aside is a simplified standard post format. In other words, there is only a content field, so you don’t need to enter the title and other options.
 
 ![](/assets/278import.png)
@@ -34,8 +30,6 @@ Aside is a simplified standard post format. In other words, there is only a cont
 #### Audio {#audio}
 
 **Audio format **is used to publish audio content.
-
-![](/assets/23636import.png)
 
 You can edit the following fields in the media gallery file settings:
 
@@ -71,7 +65,7 @@ The main feature of this post format is the possibility to add an unlimited numb
 
 ![](/assets/67281import.png)
 
-2. Drag files or click **Select Files **to add images from the local computer.
+1. Drag files or click **Select Files **to add images from the local computer.
 
 ![](/assets/315351372import.png)3. After the images are uploaded, you can find them in Media Library. Click **Uploaded to this post **to view the images.
 
@@ -121,15 +115,14 @@ There are two ways of adding video into the post:
 You can edit the following fields in settings:
 
 * **m4v **- direct link to the video in m4v format with delete function;
-* **add alternative source for maximum HTML5 playback **- alternative source of various video formats \(_mp4_,_ogv_,
+* **add alternative source for maximum HTML5 playback **- alternative source of various video formats \(_mp4_,_ogv_,  
   _webm_\);
 
 * **poster image **- set an image for video poster;
+
 * **preload **- set video preloader \(auto, metadata, none\);
 * **autoplay **- set video to autoplay;
 * **loop **- loop video.
 
 ![](/assets/428import.png)
-
-
 
