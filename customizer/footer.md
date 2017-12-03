@@ -1,6 +1,6 @@
+## Footer
+
 Settings for the website footer section.
-
-
 
 ##### Footer Styles:
 
@@ -16,29 +16,33 @@ Settings for the website footer section.
 * footer widgets area background color - here you can define the widget area background color;
 * show footer menu - show/hide footer menu.
 
-
-
 ##### Footer Contact Block:
 
 * show footer contact block - show/hide footer contact block.
 
 * contact item 1 - here you can set a contact icon and contact information
 
-                       **label **– contact name;
+  ```
+                   **label **– contact name;
 
-                       **value **– contact content;
+                   **value **– contact content;
+  ```
 
 * contact item 2 - here you can set a contact icon and contact information;
 
-                      **label **– contact name;
+  ```
+                  **label **– contact name;
 
-                      **value **– contact content;
+                  **value **– contact content;
+  ```
 
 * contact item 3 - here you can set a contact icon and contact information;
 
-                     **label **– contact name;
+  ```
+                 **label **– contact name;
 
-                     **value **– contact content.
+                 **value **– contact content.
+  ```
 
 
 
