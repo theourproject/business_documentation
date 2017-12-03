@@ -1,4 +1,4 @@
-### Site Identity {#site-identity}
+## Site Identity
 
 Here you can setup site identity.
 
@@ -21,6 +21,4 @@ This property specifies whether to enable or disable topTop button.
 ##### Show Page Preloader
 
 This property specifies whether to show placeholder or not.
-
-
 

@@ -25,5 +25,5 @@ Upload invert logo from the media library or upload your image for retina-ready 
 
 ##### Site Icon
 
-Icon image that is displayed in the browser address bar and browser tab heading. Icons must be square. Max icon \(.ico\) size is 32x32 px. You can also upload favicon for retina displays. Max retina icon size: 512x512 px. Also you can **Enable Retina optimization **and **Show preloader when open a page**via selecting the checkbox.
+Icon image that is displayed in the browser address bar and browser tab heading. Icons must be square. Max icon \(.ico\) size is 32x32 px. You can also upload favicon for retina displays. Max retina icon size: 512x512 px. Also you can **Enable Retina optimization **and **Show preloader when open a page **via selecting the checkbox.
 
