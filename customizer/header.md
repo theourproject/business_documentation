@@ -1,6 +1,4 @@
-### Header {#header}
-
-
+## Header
 
 You can set header items here.
 
@@ -25,8 +23,7 @@ You can set header items here.
 You can set header elements here.
 
 * show search - show / hide search form in header;
-
-show header call to action button - enable/disable header call to action button.
+* show header call to action button - enable/disable header call to action button.
 
 ##### Top Panel
 
