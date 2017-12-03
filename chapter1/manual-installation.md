@@ -8,8 +8,6 @@ To use this method, you need to have access to your WordPress site files on FTP 
 4. Go to the menu **Appearance &gt; Themes**.
 5. Under the **Available Themes **section find **theme-name **and activate it by clicking the **Activate **button.
 
-
-
 #### Manual Plugin Installation
 
 If you need to install plugins manually, you can do it this way.
@@ -19,6 +17,7 @@ If you need to install plugins manually, you can do it this way.
 * go to [Wordpress.org](https://wordpress.org/) and download the necessary plugins;
 
 * go to **plugins **tab on your administration panel and click on **add new **button;![](/assets/987import.png)
+
 * you will see the the search field that can help you search the necessary plugins by keywords, you can install them from your administration panel at once;![](/assets/454import.png)
 
 * you can also upload the plugins from your PC if you already have them on your computer in .zip format. Just click on
@@ -31,15 +30,14 @@ If you need to install plugins manually, you can do it this way.
 
 ##### For installing the sample data manualy please follow the instructions listed below. {#for-installing-the-sample-data-manualy-please-follow-the-instructions-listed-below}
 
+* Open the **theme/manual\_install **folder of your downloaded template package.
 
+* Upload the **uploads **folder to the wp-content directory of your WordPress installation, accept folder\(s\) replacement. Please note that your images may be replaced with sample images.
 
-* Open the**theme/manual\_install**folder of your downloaded template package.
+* Open the **theme-name.sql **file that is located in the **theme/manual\_install **folder in any text editor \(preferably Sublime Text or Notepad\) and replace all instances of **your\_website\_url\_here **with your website URL in the entire document using the  
+  **Find and Replace **tool \(hit Ctrl+H hot keys to open this window\). E.g.: [http://www.mywebsite.com](http://www.mywebsite.com). Please, make sure that you do not have the forward slash**/**sign at the end of the address and the url starts with [http://www](http://www). Save your changes and close the file.
 
-* Upload the**uploads**folder to the wp-content directory of your WordPress installation, accept folder\(s\) replacement. Please note that your images may be replaced with sample images.
-
-* Open the **theme-name.sql **file that is located in the **theme/manual\_install **folder in any text editor \(preferably Sublime Text or Notepad\) and replace all instances of **your\_website\_url\_here **with your website URL in the entire document using the
-  **Find and Replace **tool \(hit Ctrl+H hot keys to open this window\). E.g.: http://www.mywebsite.com. Please, make sure that you do not have the forward slash**/**sign at the end of the address and the url starts with http://www. Save your changes and close the file.
-* Open the**theme-name.sql**file that is located in the**theme/manual\_install**folder in any text editor \(preferably Sublime Text or Notepad\) and replace all instances of**your\_website\_url\_here**with your website URL in the entire document using the**Find and Replace**tool \(hit Ctrl+H hot keys to open this window\). E.g.: http://www.mywebsite.com. Please, make sure that you do not have the forward slash**/**sign at the end of the address and the url starts with http://www. Save your changes and close the file.
+* Open the **theme-name.sql **file that is located in the**t heme/manual\_install **folder in any text editor \(preferably Sublime Text or Notepad\) and replace all instances of **your\_website\_url\_here **with your website URL in the entire document using the **Find and Replace **tool \(hit Ctrl+H hot keys to open this window\). E.g.: [http://www.mywebsite.com](http://www.mywebsite.com). Please, make sure that you do not have the forward slash**/**sign at the end of the address and the url starts with [http://www](http://www). Save your changes and close the file.
 
 ![](/assets/4140import.png)
 
@@ -47,9 +45,9 @@ If you need to install plugins manually, you can do it this way.
 
 ![](/assets/9541import.png)![](/assets/452import.png)
 
-* Open your WordPress database using a database management tool. Usually, the database tool is called**PhpMyadmi**
+* Open your WordPress database using a database management tool. Usually, the database tool is called **PhpMyadmin**
 
-* Go to the**Import**tab and import the**.sql**file.
+* Go to the **Import **tab and import the **.sql **file.
 
 ![](/assets/7678import.png)
 
