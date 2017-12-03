@@ -51,9 +51,9 @@ If you need to install plugins manually, you can do it this way.
 
 ![](/assets/7678import.png)
 
-* Navigate to WordPress dashboard and go to**Settings &gt; Permalinks**.
+* Navigate to WordPress dashboard and go to **Settings &gt; Permalinks**.
 
-* Click the**Save Changes**button.
+* Click the **Save Changes **button.
 
 * Refresh your home page. That’s it, the template has been installed with demo sample content.
 
