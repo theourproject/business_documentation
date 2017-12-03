@@ -1,4 +1,4 @@
-### Logo & Favicon {#logo--favicon}
+## Logo & Favicon
 
 You can configure logo and favicon here.
 
