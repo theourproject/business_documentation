@@ -2,15 +2,21 @@
 
 This widget is used to display featured post block information.
 
-![](/assets/78import.png)Post Meta:
+##### ![](/assets/78import.png)Post Meta:
 
-* * show post title;
-  * show post excerpt;
-  * show post categories;
-  * show post tags;
-  * show post author;
-  * show post date;
-  * show post comments count.
+* show post title;
+
+* show post excerpt;
+
+* show post categories;
+
+* show post tags;
+
+* show post author;
+
+* show post date;
+
+* show post comments count.
 
 ##### Excerpt Length
 
