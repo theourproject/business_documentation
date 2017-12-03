@@ -19,7 +19,6 @@
   * [Header](customizer/header.md)
   * [Menus](customizer/menus.md)
   * [Sidebar](customizer/sidebar.md)
-  * [MailChimp](customizer/mailchimp.md)
   * [Widgets](customizer/widgets.md)
   * [Footer](customizer/footer.md)
   * [Ads Management](customizer/ads-management.md)

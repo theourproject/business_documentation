@@ -1,6 +1,4 @@
-### Menus {#menu-locations}
-
-
+## Menus
 
 Your theme supports 5 menus. Select which menu appears in each location. You can also place menus in widget areas with the Custom Menu widget.
 
