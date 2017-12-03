@@ -8,11 +8,9 @@ Now you can proceed to theme installation: business.zip \(here and after **theme
 
 2. Navigate to the **Appearance &gt; Themes section **at the admin panel of the site and open the **theme **folder.
 
-3. Locate the archive named as theme-name.zip and install the theme by pressing **Install Now**.
+3. Locate the archive named as theme-name.zip and install the theme by pressing **Install Now**.![](/assets/452452import.png)
 
-![](/assets/88import.png)
+4. Next please press on **Activate **link.![](/assets/414import.png)
 
-4. Next please press on **Activate **link.
 
-![](/assets/414import.png)
 
