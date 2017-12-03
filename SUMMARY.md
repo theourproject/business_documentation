@@ -4,7 +4,6 @@
 * [Theme Instalation](chapter1.md)
   * [WordPress Installation](chapter1/wordpress-installation.md)
   * [Theme Installation](chapter1/theme-installation.md)
-  * [Cherry Wizard Installation / Sample Data Installation](chapter1/cherry-wizard-installation-sample-data-installation.md)
   * [Manual Installation](chapter1/manual-installation.md)
 * [Customizer](customizer.md)
   * [Site Identity](customizer/site-identity.md)
