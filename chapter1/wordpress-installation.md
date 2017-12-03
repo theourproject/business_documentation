@@ -19,23 +19,13 @@ A new database can be created in your Hosting Control Panel.
 2. The first page of installation will appear. Click **Create a Configuration file**
 3. Click **Let’s Go **button and fill in Database Connection Details:![](/assets/1import.png)![](/assets/2import.png)
 
-   1. Fill in the fields with Website Details as shown below:
+4. Fill in the fields with Website Details as shown below:
 
 ![](/assets/4import.png)
 
-Click
-
-1. **Install WordPress **button.
+5. Click **Install WordPress **button.
 
 If you have entered the correct details, you will see a successful installation message and the WordPress dashboard access button.
-
-#### Useful Tips: {#useful-tips:}
-
-* [Manual WordPress Installation to HostGator Server;](https://zemez.io/wordpress/support/knowledge-base/manual-wordpress-installation-hostgator-server/)
-
-* [Manual WordPress Installation to GoDaddy Server;](https://www.gitbook.com/book/ourproject/business_theme_documentation/edit#)
-
-* [Manual WordPress Installation to JustHost Server](https://zemez.io/wordpress/support/knowledge-base/manual-wordpress-installation-justhost-server/)
 
 ###  {#theme-installation}
 
