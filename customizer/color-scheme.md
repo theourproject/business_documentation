@@ -2,8 +2,6 @@ Color Scheme
 
 Here you can set up site color scheme.
 
-
-
 ##### Regular Scheme
 
 * accent color \(1\) - first version of the main theme color;
@@ -12,10 +10,12 @@ Here you can set up site color scheme.
 * accent color \(4\) - fourth version of the main theme color.
 
 * text color - color of the text;
+
 * link color - color of the links;
 * link hover color - color of the links on hover;
 
 * H1 color - color of the H1 title;
+
 * H2 color - color of the H2 title;
 * H3 color - color of the H3 title;
 * H4 color - color of the H4 title;
@@ -27,10 +27,12 @@ Here you can set up site color scheme.
 * accent color \(1\) - first version of the main theme color.
 
 * text color - color of the text;
+
 * link color - color of the links;
 * link hover color - color of the links on hover;
 
 * H1 color - color of the H1 title;
+
 * H2 color - color of the H2 title;
 * H3 color - color of the H3 title;
 * H4 color - color of the H4 title;
