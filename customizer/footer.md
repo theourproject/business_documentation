@@ -22,27 +22,23 @@ Settings for the website footer section.
 
 * contact item 1 - here you can set a contact icon and contact information
 
-  ```
-                   **label **– contact name;
+         **label **– contact name;
 
-                   **value **– contact content;
-  ```
+         **value **– contact content;
 
 * contact item 2 - here you can set a contact icon and contact information;
 
-  ```
-                  **label **– contact name;
+    **label **– contact name;
 
-                  **value **– contact content;
-  ```
+    **value**– contact content;
 
 * contact item 3 - here you can set a contact icon and contact information;
 
-  ```
-                 **label **– contact name;
+    **label **– contact name;
 
-                 **value **– contact content.
-  ```
+    **value**– contact content;
+
+
 
 
 
