@@ -1,4 +1,4 @@
-### Image Grid {#image-grid}
+## Image Grid
 
 * This widget is used to display the image grid. By default, you have to select an appropriate category or tags in order to display the grid.
 

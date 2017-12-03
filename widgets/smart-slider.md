@@ -2,13 +2,12 @@
 
 This widget is used to setup and display slider on the website.
 
-
-
 ![](/assets/985621014785632import.png)
 
-title - this property specifies the widget title;
+* title - this property specifies the widget title;
 
 * choose taxonomy type - select taxonomy type of the slides;
+
 * select category - here you can select category to pull the slides from;
 * select tags - here you can select tags to pull the slides from;
 * posts count - this property defines the number of posts / slides to display;
@@ -34,6 +33,5 @@ title - this property specifies the widget title;
 * display thumbnails arrows - here you can define whether to Hide/Show arrows navigation for thumbnails;
 * set the position of the thumbnail scroller - this property sets the position of the thumbnail scroller. It is set to bottom by default.
 
-  
 
 

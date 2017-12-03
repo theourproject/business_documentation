@@ -1,4 +1,4 @@
-### News Smart Box {#news-smart-box}
+## News Smart Box
 
 This widget is used to setup and display the news box.
 
@@ -12,8 +12,6 @@ This widget is used to setup and display the news box.
 * main color - here you can define the text color for the news block;
 * posts count - here you can define the number of posts to display;
 * content words trimmed count - specify the content words limit.
-
-
 
 
 
