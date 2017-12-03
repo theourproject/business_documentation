@@ -1,4 +1,4 @@
-### Carousel {#carousel}
+## Carousel
 
 Widget is used to display and setup slider carousel on the website.
 

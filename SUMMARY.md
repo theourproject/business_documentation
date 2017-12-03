@@ -37,7 +37,6 @@
   * [About Author](widgets/about-author.md)
   * [Banner](widgets/banner.md)
   * [Carousel](widgets/carousel.md)
-  * [Cherry Trending Posts](widgets/cherry-trending-posts.md)
   * [Contact Information](widgets/contact-information.md)
   * [Custom Posts](widgets/custom-posts.md)
   * [Featured Posts Block](widgets/featured-posts-block.md)

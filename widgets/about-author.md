@@ -1,4 +1,4 @@
-### About Author {#about-author}
+## About Author
 
 This widget is used to display blog author information.
 

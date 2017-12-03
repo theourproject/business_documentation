@@ -1,4 +1,4 @@
-### Banner {#banner}
+## Banner
 
 This widget is designed to add banners to the website.
 
