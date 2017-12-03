@@ -1,8 +1,6 @@
-### Featured Posts Block {#featured-posts-block}
+## Featured Posts Block
 
 This widget is used to display featured post block information.
-
-
 
 ![](/assets/78import.png)Post Meta:
 
@@ -17,6 +15,4 @@ This widget is used to display featured post block information.
 ##### Excerpt Length
 
 This property sets the number of symbols limit for excerpt.
-
-
 

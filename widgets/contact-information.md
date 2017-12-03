@@ -1,6 +1,4 @@
-### Contact Information {#contact-information}
-
-
+## Contact Information
 
 This widget is used to display contact information of the page.
 

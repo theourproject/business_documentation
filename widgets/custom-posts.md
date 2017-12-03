@@ -1,4 +1,4 @@
-### Custom Posts {#custom-posts}
+## Custom Posts
 
 This widget is used to setup and display custom posts.
 
@@ -15,8 +15,6 @@ This widget is used to setup and display custom posts.
 * excerpt words length  this property sets the number of excerpt words;
 * display post meta data - this feature adds meta data to the post;
 * post read more button label - add text to the **Read More **button.
-
-
 
 
 
