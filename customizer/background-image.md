@@ -1,4 +1,4 @@
-Background Image
+## Background Image
 
 You can choose the background image for your website.
 
