@@ -1,6 +1,4 @@
-### Page Layout {#elementor-page-layout}
-
-
+## Page Layout
 
 Elementor provides ample potential to add content to pages and manage it according to your needs. There are two ways of adding content: creating it from scratch by adding and editing sections or using pre-designed templates. After you decided which option to choose, you should click corresponding button as seen below.
 
