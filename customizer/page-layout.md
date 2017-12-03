@@ -1,3 +1,5 @@
+## Page Layout
+
 Here you can select the layout pattern for the header, content and footer containers.
 
 ##### Header Type

@@ -1,3 +1,5 @@
+## Social Links
+
 Here you can set up site social links.
 
 * show social links in header - displays the list of links to social networks pages in site header;
