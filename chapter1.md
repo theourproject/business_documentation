@@ -22,12 +22,8 @@ The template package includes several folders. Let’s check what’s inside:
       * contains theme images.
     * **finvisor.sql**
       * database file \(contains theme content\).
-* **documentation.txt**
-  * contains documentation link information.
-* **info.txt**
-  * instructions on how to extract source files.
-* **license.txt**
-  * contains information about GPL license.
+* **documentation.pdf**
+  * contains documentation information.
 
 ### Preparation {#preparation}
 
@@ -74,6 +70,4 @@ Recommended settings are:
 5. suPHP.
 
 You can also install WordPress on your PC or laptop through a local server. You can use the following software to create a local server: **WAMP**, **AppServ**, **MAMP**, etc. All of these support WordPress and can be installed as a regular software.
-
-
 
