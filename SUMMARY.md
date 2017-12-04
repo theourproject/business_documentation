@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Theme Instalation](chapter1.md)
+* [Theme Installation](chapter1.md)
   * [WordPress Installation](chapter1/wordpress-installation.md)
   * [Theme Installation](chapter1/theme-installation.md)
   * [Manual Installation](chapter1/manual-installation.md)
