@@ -1,4 +1,6 @@
-## ![](/assets/screenshot.png)Introduction
+## ![](/assets/provel_int %281%29.png)
+
+## Introduction
 
 Thank you for purchasing a WordPress template. This documentation consists of several parts and covers the entire process of installing and setting up a WordPress website from scratch.
 
@@ -20,7 +22,7 @@ The template package includes several folders. Let’s check what’s inside:
     * contains files that make the WordPress website look like on our live demo.
     * **uploads**
       * contains theme images.
-    * **business.sql**
+    * **provel.sql**
       * database file \(contains theme content\).
 * **documentation.txt**
   * contains documentation link information.

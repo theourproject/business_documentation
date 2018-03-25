@@ -20,7 +20,7 @@ The template package includes several folders. Let’s check what’s inside:
     * contains files that make the WordPress website look like on our live demo.
     * **uploads**
       * contains theme images.
-    * **finvisor.sql**
+    * **provel.sql**
       * database file \(contains theme content\).
 * **documentation.pdf**
   * contains documentation information.

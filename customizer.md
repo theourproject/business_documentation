@@ -8,5 +8,5 @@ Left side of the site interface lists the available settings. Page template is d
 
 Below is the list of settings which can be customized according to your needs:
 
-![](/assets/customizer_import.png)
+![](/assets/provel_customizer %281%29.png)
 
